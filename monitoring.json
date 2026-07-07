@@ -1,0 +1,616 @@
+{
+  "lastCheck": {
+    "url": "https://waylandandco.com",
+    "host": "waylandandco.com",
+    "checkedAt": "2026-07-07T21:04:17.783Z",
+    "up": true,
+    "status": 200,
+    "latencyMs": 187,
+    "ssl": {
+      "validTo": "2026-09-01T14:25:57.000Z",
+      "daysRemaining": 55
+    }
+  },
+  "history": [
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T21:04:17.783Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 187,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T20:49:12.873Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 121,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T20:34:10.928Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 131,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T20:19:06.524Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 126,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T20:04:04.660Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 142,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T19:49:00.165Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 172,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T19:33:55.927Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 132,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T19:18:51.761Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 134,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T19:03:47.437Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 122,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T18:48:43.338Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 122,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T18:33:39.346Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 122,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T18:18:35.036Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 158,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T18:03:30.332Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 138,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T17:48:28.378Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 165,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T17:33:23.493Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 130,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T17:18:18.725Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 124,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T17:03:14.337Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 120,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T16:48:12.509Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 135,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T16:33:08.313Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 138,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T16:18:03.502Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 137,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T16:02:59.174Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 124,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T15:47:54.996Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 121,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T15:32:50.567Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 133,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T15:17:46.305Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 150,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T15:02:44.069Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 193,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T14:47:42.079Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 90,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T14:32:40.327Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 142,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 55
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T14:17:35.524Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 136,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T14:02:30.789Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 139,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T13:47:26.084Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 140,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T13:32:21.436Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 151,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T13:17:16.874Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 138,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T13:02:12.580Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 147,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T12:47:10.619Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 132,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T12:32:08.740Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 132,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T12:17:04.359Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 189,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T12:02:02.390Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 133,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T11:47:00.377Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 157,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T11:31:58.389Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 131,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T11:16:54.296Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 144,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T11:01:50.168Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 148,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T10:46:45.562Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 150,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T10:31:40.237Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 130,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T10:16:35.956Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 126,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T10:01:31.079Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 139,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T09:46:26.431Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 121,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T09:31:24.422Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 141,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T09:16:18.951Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 159,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T09:01:14.987Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 141,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    },
+    {
+      "url": "https://waylandandco.com",
+      "host": "waylandandco.com",
+      "checkedAt": "2026-07-07T08:46:13.046Z",
+      "up": true,
+      "status": 200,
+      "latencyMs": 130,
+      "ssl": {
+        "validTo": "2026-09-01T14:25:57.000Z",
+        "daysRemaining": 56
+      }
+    }
+  ]
+}

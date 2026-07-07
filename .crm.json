@@ -1,0 +1,33 @@
+{
+  "name": "Wayland & Co.",
+  "slug": "wayland-co",
+  "domain": "waylandandco.com",
+  "source": "pilot",
+  "intakeDate": "2026-06-03T00:00:00Z",
+  "currentState": "live",
+  "stateHistory": [
+    {
+      "state": "scaffolded",
+      "enteredAt": "2026-06-03T00:00:00Z"
+    },
+    {
+      "state": "deployed",
+      "enteredAt": "2026-06-03T00:00:00Z"
+    },
+    {
+      "state": "live",
+      "enteredAt": "2026-06-17T12:53:54.432Z"
+    }
+  ],
+  "lastTouch": "2026-06-17T12:53:54.432Z",
+  "blockers": "",
+  "nextAction": "Flagship / own site — no client action pending",
+  "ownerOfNextAction": "nobody",
+  "decisionMakerName": "Will Ackley",
+  "decisionMakerEmail": "will@waylandandco.com",
+  "notes": "Wayland & Co. flagship / agency own site (client #0). Deployed 2026-06-03 on Vercel Hobby; DNS at Porkbun; contact form + portal email via Resend. Not a paying client — tracked for roster completeness.",
+  "tags": [
+    "flagship",
+    "internal"
+  ]
+}
